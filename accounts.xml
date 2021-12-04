@@ -1,0 +1,16 @@
+<ACCOUNTS>
+   <PLAYER>
+	  <id>12</id>
+          <Username>Kidus</Username>
+          <Password>1</Password>
+          <Background>lighblue</Background>
+	  <Nickname>K</Nickname>
+   </PLAYER>
+   <PLAYER>
+	 <id>13</id>
+         <Username>Andy</Username>
+         <Password>2</Password>
+	 <Background>white</Background>
+	 <Nickname>A</Nickname>
+   </PLAYER>
+</ACCOUNTS>
